@@ -8,8 +8,8 @@
 <img src="images/IslandOfUnwanted Dreams.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Forsaken Wanderer](https://uncommonsensegames.itch.io/forsaken-wanderer)
+<img src="images/Forsaken.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
