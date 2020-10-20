@@ -4,7 +4,7 @@
 
 ### Indie Video Games 
 
-[Island of Unwanted Dreams](https://gordomgames.itch.io/island-of-unwanted-dreams)
+[Island of Unwanted Dreams](https://gordomgames.itch.io/island-of-unwanted-dreams)<br>
 <img src="images/IslandOfUnwanted Dreams.png?raw=true"/>
 
 ---
