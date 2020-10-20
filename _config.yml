@@ -1,16 +1,16 @@
-title: John Doe # your name (or website title) here
+title: Domagoj Crnkovic # your name (or website title) here
 logo: "/images/MyPicture.jpg?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Game developer:
-  -Unity C#
+  Game developer:<br>
+  -Unity C#<br>
   
-  Web design:
-  -php
-  -css
-  -mySql
+  Web design:<br>
+  -php<br>
+  -css<br>
+  -mySql<br>
   
   <br><br>
-  My email: domacrnko93@gmail.com
+  <a href = "mailto: domacrnko93@gmail.com">Send Email</a>
   Phone: +385 91 623 0402
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
