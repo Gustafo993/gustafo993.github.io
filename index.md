@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Indie Video Games 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Island of Unwanted Dreams](https://gordomgames.itch.io/island-of-unwanted-dreams)
+<img src="images/IslandOfUnwanted Dreams.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
